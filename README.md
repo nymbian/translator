@@ -1,5 +1,6 @@
 # translator
 基于 Transformer 的中英文翻译模型demo，数据集比较小，主要用于理解Transformer的机制。
+
 推荐使用uv
 ```shell
 curl -LsSf https://astral.sh/uv/install.sh | sh
